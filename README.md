@@ -11,7 +11,7 @@ We all can discuss here about themes and topics like:
 - Architecture of the milieu
 - Development environments, frameworks, platforms, programming languages, best practices, agile project management, TDD, tooling, etc.
 - Interdisciplinary cooperation between multiple fields of research in informatics, engineering, natural sciences, humanities, etc.
-- Philosophical, ethical and political questions (strong and **autonomous(!)** AI to save flora and fauna on our planet...)
+- Philosophical, ethical and political questions (concerning a strong and **autonomous(!)** AI to save flora and fauna on our planet...)
 - ...
 
 Together with the discussions and their intent and content, we will establish a FAQ list, answering the most common questions newbies have in the context of ANiceMind.
